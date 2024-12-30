@@ -2,7 +2,7 @@
 
 A simple RESTful API to fetch and cache weather information for a given city using OpenWeatherMap and Redis. This project includes rate limiting and caching mechanisms to enhance performance and reliability.
 
-https://roadmap.sh/projects/weather-api
+[https://roadmap.sh/projects/weather-api](https://roadmap.sh/projects/weather-api-wrapper-service)
 
 ## Table of Contents
 
